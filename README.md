@@ -1,2 +1,2 @@
 # jet_zookeeper
-Zookeeper project from JetBrains Academy
+Zookeeper learning project from JetBrains Academy 
